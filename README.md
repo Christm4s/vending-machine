@@ -10,3 +10,6 @@ Here:
 - fivesCount is the amount of five rupees coins in the change dispenser machine.
 - tensCount is the amount of one rupees coins in the change dispenser machine.
 - money is the money being deposited for which change is required.
+
+Sample argument is:
+javac ChangeDispenser 16 36 23 22 1843
